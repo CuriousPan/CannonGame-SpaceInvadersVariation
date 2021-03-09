@@ -8,6 +8,6 @@ To move the cannon player can use A and D buttons and the mouse.
 Try it and enjoy(I hope so).
 
 Here's the screenshot of gameplay
-![Screenshot][Screenshot.png] 
+![Screenshot](Screenshot.png) 
   
 P.S. If you face any bug don't hesitate notifying me and doing pull-requests.
